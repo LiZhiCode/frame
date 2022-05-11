@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "npm",
+      "script": "start",
+      "path": "React/react17/",
+      "problemMatcher": [],
+      "label": "npm: start - React/react17",
+      "detail": "react-scripts start"
+    }
+  ]
+}
