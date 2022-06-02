@@ -19,7 +19,7 @@ export default class App extends Component {
             console.log(111, this.a);
           }}
         >
-          add1
+          add2
         </button>
         <button onClick={this.handleClick2.bind(this)}>add2</button>
         <button onClick={this.handleClick3}>add3</button>
